@@ -6,12 +6,15 @@
 
 ## Preview
 
+<h1 align="center">Difficulty Select</h1>
 <p align="center">
   <img src="screenshots/difficulty.png"/>
 </p>
+<h1 align="center">Main Quiz</h1>
 <p align="center">
   <img src="screenshots/main.png"/>
 </p>
+<h1 align="center">Results Page</h1>
 <p align="center">
   <img src="screenshots/results.png"/>
 </p>
@@ -27,7 +30,7 @@
 
 ## Setup & Build
 
-- Clone this project
+- Clone this project https://github.com/ArunPurewal94/snappy-quiz
 
 ```bash
 git clone
