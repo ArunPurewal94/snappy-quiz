@@ -33,7 +33,7 @@
 - Clone this project https://github.com/ArunPurewal94/snappy-quiz
 
 ```bash
-git clone
+git clone https://github.com/ArunPurewal94/snappy-quiz
 ```
 
 - Install dependencies (npm, pnpm, yarn)
