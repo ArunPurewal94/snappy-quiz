@@ -4,7 +4,9 @@
     Snappy Quiz is a simple and fun quiz game that challenges you with different difficulties,
 </p>
 
-## Preview
+## Website & Preview
+
+- [Have a go for yourself! 😊](https://snappy-quiz.vercel.app/)
 
 <h1 align="center">Difficulty Select</h1>
 <p align="center">
